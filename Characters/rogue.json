@@ -1,0 +1,9 @@
+{
+    "strength": 5,
+    "agility": 5,
+    "intelligence": 5,
+    "charisma": 5,
+    "hp": 30,
+    "defense": 10,
+    "name": "Mira"
+}

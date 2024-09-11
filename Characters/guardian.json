@@ -1,0 +1,9 @@
+{
+    "strength": 2,
+    "agility": 5,
+    "intelligence": 5,
+    "charisma": 5,
+    "hp": 50,
+    "defense": 10,
+    "name": "Temple Guardian"
+}

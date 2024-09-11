@@ -1,0 +1,43 @@
+*encounter*: first_encounter
+You are walking through a misty path in the Dark Forest when you hear rustling in the bushes. 
+Suddenly, a mysterious figure emerges—a hooded rogue named Mira. 
+She stands in your way, her dagger glinting in the faint light.
+*options*
+*option*
+Confront the rogue
+*results*
+rogue
+forgotten_temple
+*option*
+Talk to the rogue
+*results*
+forgotten_temple
+
+*encounter*: forgotten_temple
+You arrive at an ancient, crumbling temple. 
+In the center of the room, you see a large pedestal holding a glowing artifact. 
+However, a Temple Guardian stands in your path, its eyes fixed on you.
+*options*
+*option*
+Attempt to steal the artifact
+*results*
+guardian
+bridge_of_fate
+*option*
+Leave the artifact
+*results*
+bridge_of_fate
+
+encounter: bridge_of_fate
+A narrow, creaking bridge spans a chasm below. 
+As you cross, an old man named Eldric appears from the shadows, blocking your path. 
+He offers you a cryptic choice: one of two paths, but warns that only one leads to salvation.
+*options*
+*option*
+Choose the left path
+*results*
+finalboss
+Choose the right path
+*results*
+stevz
+
