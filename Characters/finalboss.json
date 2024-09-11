@@ -1,0 +1,9 @@
+{
+    "strength": 2,
+    "agility": 2,
+    "intelligence": 2,
+    "charisma": 2,
+    "hp": 100,
+    "defense": 20,
+    "name": "Dragon Lord"
+}

@@ -1,6 +1,5 @@
 *encounter*: first_encounter
 You encounter a Goblin in a dungeon
-
 *options*
 *option*
 Fight
@@ -10,32 +9,25 @@ encounter2
 *option*
 Flee
 *results*
-encounter2
-
+first_encounter
 
 *encounter*: encounter2
 You found a chest, open it?
-
 *options*
 *option*
 open
 *results*
 stevz
-first_encounter
-
-
+encounter3
+*option*
+leave it be
+*results*
+encounter3
 
 *encounter*: encounter3
-this is encounter number 3, very good!
-
-did the game print a blank line above this? if so, all is going good
-
+Oh no, The Boss Dungeon Has Appeared.
 *options*
 *option*
-first option (goes back to the first encounter, i hope)
+FIGHT
 *results*
-first_encounter
-*option*
-second option (goes to the second encounter, apparently)
-*results*
-encounter2
+finalboss
