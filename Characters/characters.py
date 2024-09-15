@@ -11,7 +11,11 @@ def create_character(rolls=3, save_folder=""):
     print(
         "Welcome to the character creator! First things first, what's your hero's name?"
     )
-    name = input("Enter Name: ")
+    try:
+        name = input("Enter Name: ")
+    except EOFError:
+        print("Input error. Please run the script in an interactive environment.")
+        return
 
     attributes_accepted = False
     roll = 1

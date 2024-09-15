@@ -1,0 +1,9 @@
+{
+    "strength": 10,
+    "agility": 8,
+    "intelligence": 4,
+    "charisma": 9,
+    "hp": 100,
+    "defense": 15,
+    "name": "wow"
+}
