@@ -453,6 +453,7 @@ def main_game():
     initialize_game(gs, console, game_window)
     exit_game = False
     while exit_game is False:
+        
         gs.adventure[gs.next_encounter].resolve_encounter(gs)
 
 
